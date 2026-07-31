@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Spandana
 
-🎓 Electronics and Communication Engineering Student  
-💻 Aspiring Data Analyst | Machine Learning Enthusiast  
+🎓 Electronics and Communication Engineering Graduate  
+💻 Aspiring Software Developer | Technology Enthusiast
 
+### 👩‍💻 About Me
 
-## 👩‍💻 About Me
-
-- 🌱 Currently learning Data Analysis and Machine Learning  
-- 📊 Working with Python, Pandas, NumPy, SQL, PowerBI  
+- 🌱 Currently learning and building projects across software development and emerging technologies
+- 💻 Working with Python, Java, JavaScript, SQL and modern development tools
+- 🚀 Interested in Software Development, Web Development, Backend, Full-Stack and AI/ML
 
